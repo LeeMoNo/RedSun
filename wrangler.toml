@@ -1,0 +1,8 @@
+name = "redsun-dict"
+main = "worker.js"
+compatibility_date = "2024-01-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "redsun-dict"
+database_id = "16a1ebf1-b23e-412c-ae20-23e26a99532a"
